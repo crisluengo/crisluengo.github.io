@@ -1,11 +1,11 @@
-| Links |
-|-------|
-| ![](wordpress.svg){: height="1.5em" } [My blog on Image Analysis](https://www.crisluengo.net) |
-| ![](github.svg){: height="1.5em" } [My GitHub profile](https://github.com/crisluengo) |
-| ![](google_scholar.svg){: height="1.5em" } [My Google Scholar profile](http://scholar.google.com/citations?user=SM3nQwYAAAAJ&hl=en) |
-| ![](linkedi.svg){: height="1.5em" } [My LinkedIn profile](https://www.linkedin.com/in/crisluengo) |
-| ![](stack_overflow.svg){: height="1.5em" } [My Stack Overflow profile](https://stackoverflow.com/users/7328782/cris-luengo) |
-| ![](twitter.svg){: height="1.5em" } [MY Twitter profile](https://twitter.com/TheDIPlibGuy) |
+&nbsp; | Links
+-------|:-------
+![](wordpress.svg){: height="20" }      | [My blog on Image Analysis](https://www.crisluengo.net)
+![](github.svg){: height="20" }         | [My GitHub profile](https://github.com/crisluengo)
+![](google_scholar.svg){: height="20" } | [My Google Scholar profile](http://scholar.google.com/citations?user=SM3nQwYAAAAJ&hl=en)
+![](linkedin.svg){: height="20" }       | [My LinkedIn profile](https://www.linkedin.com/in/crisluengo)
+![](stack_overflow.svg){: height="20" } | [My Stack Overflow profile](https://stackoverflow.com/users/7328782/cris-luengo)
+![](twitter.svg){: height="20" }        | [MY Twitter profile](https://twitter.com/TheDIPlibGuy)
 
 &nbsp;
 
