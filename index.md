@@ -1,5 +1,5 @@
 &nbsp; | Links |   |
-------:|:----------------------|---|---
+------:|:------|---|---
 ![](wordpress.svg){: height="20" }&nbsp;      | [My blog on Image Analysis](https://www.crisluengo.net)
 ![](github.svg){: height="20" }&nbsp;         | [My GitHub profile](https://github.com/crisluengo)
 ![](google_scholar.svg){: height="20" }&nbsp; | [My Google Scholar profile](http://scholar.google.com/citations?user=SM3nQwYAAAAJ&hl=en)
