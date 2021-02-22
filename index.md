@@ -8,7 +8,7 @@
 ![](twitter.svg){: height="20" }&nbsp;\|&nbsp;        | [My Twitter profile](https://twitter.com/TheDIPlibGuy)
 &nbsp; | | |
 &nbsp; | **My projects on GitHub** | |
-**DIPlib**&nbsp;\|&nbsp;         | Quantitative Image Analysis in C++, MATLAB and Python | &nbsp;\|&nbsp;[web](https://diplib.org) | &nbsp;\|&nbsp;[GitHub](https://github.com/DIPlib/diplib)
-**libics**&nbsp;\|&nbsp;         | Image Cytometry Standard file reading and writing | &nbsp;\|&nbsp;[web](https://svi-opensource.github.io/libics/) | &nbsp;\|&nbsp;[GitHub](https://github.com/svi-opensource/libics)
-**dox++**&nbsp;\|&nbsp;          | Generate documentation for a C++ project | &nbsp;\|&nbsp;[web](https://crisluengo.github.io/doxpp/) | &nbsp;\|&nbsp;[GitHub](https://github.com/crisluengo/doxpp)
-**mdx\_math\_svg**&nbsp;\|&nbsp; | Python-Markdown extension, render equations as embedded SVG | &nbsp;\|&nbsp; | &nbsp;\|&nbsp;[GitHub](https://github.com/crisluengo/mdx_math_svg)
+**DIPlib**&nbsp;\|&nbsp;         | Quantitative Image Analysis in C++, MATLAB and Python&nbsp; | [web](https://diplib.org) | &nbsp;\|&nbsp;[GitHub](https://github.com/DIPlib/diplib)
+**libics**&nbsp;\|&nbsp;         | Image Cytometry Standard file reading and writing | [web](https://svi-opensource.github.io/libics/) | &nbsp;\|&nbsp;[GitHub](https://github.com/svi-opensource/libics)
+**dox++**&nbsp;\|&nbsp;          | Generate documentation for a C++ project | [web](https://crisluengo.github.io/doxpp/) | &nbsp;\|&nbsp;[GitHub](https://github.com/crisluengo/doxpp)
+**mdx\_math\_svg**&nbsp;\|&nbsp; | Python-Markdown extension, render equations as embedded SVG | | &nbsp;\|&nbsp;[GitHub](https://github.com/crisluengo/mdx_math_svg)
