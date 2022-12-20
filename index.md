@@ -1,11 +1,12 @@
 &nbsp; | Links |
 ------:|:------|---:
-![](wordpress.svg){: height="20" }&nbsp; &nbsp;      | [My blog on Image Analysis](https://www.crisluengo.net)
+![](blog.svg){: height="20" }&nbsp; &nbsp;      | [My blog on Image Analysis](https://www.crisluengo.net)
 ![](github.svg){: height="20" }&nbsp; &nbsp;         | [My GitHub profile](https://github.com/crisluengo)
 ![](google_scholar.svg){: height="20" }&nbsp; &nbsp; | [My Google Scholar profile](http://scholar.google.com/citations?user=SM3nQwYAAAAJ&hl=en)
 ![](linkedin.svg){: height="20" }&nbsp; &nbsp;       | [My LinkedIn profile](https://www.linkedin.com/in/crisluengo)
 ![](stack_overflow.svg){: height="20" }&nbsp; &nbsp; | [My Stack Overflow profile](https://stackoverflow.com/users/7328782/cris-luengo)
 ![](twitter.svg){: height="20" }&nbsp; &nbsp;        | [My Twitter profile](https://twitter.com/TheDIPlibGuy)
+![](mastodon.svg){: height="20" }&nbsp; &nbsp;        | [My Mastodon profile](https://fosstodon.org/@CrisLuengo)
 &nbsp;                           |                                                             |
 &nbsp;                           | **My projects on GitHub**                                   |
 **DIPlib**&nbsp;\|&nbsp;         | Quantitative Image Analysis in C++, MATLAB and Python&nbsp; | [web](https://diplib.org)\|[GitHub](https://github.com/DIPlib/diplib)
